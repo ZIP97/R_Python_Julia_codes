@@ -409,7 +409,7 @@ spec
 
 在 https://vega.github.io/editor/#/custom/vega-lite 中运行结果如下 ↓
 
-![simple_vegalite_json_code](fig/simple_vegalite_json_code.png)
+![simple_vegalite_json_code](https://github.com/ZIP97/R_Python_Julia_codes/blob/master/fig/simple_vegalite_json_code.png)
 
 用 `@vlplot` 将上面的 Json 代码翻译过来，如下
 
